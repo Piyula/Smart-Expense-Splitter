@@ -60,6 +60,7 @@ Git & GitHub
 VS Code
 
 📁 Folder Structure
+
 smart-expense-splitter/
 │
 ├── backend/
@@ -78,6 +79,8 @@ smart-expense-splitter/
 ├── .gitignore
 ├── README.md
 └── package.json
+
+
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/your-username/smart-expense-splitter.git
