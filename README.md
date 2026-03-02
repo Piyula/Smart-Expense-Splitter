@@ -45,6 +45,8 @@ Postman
 Git & GitHub
 
 VS Code
+
+
 📁 Folder Structure
 smart-expense-splitter/
 │
